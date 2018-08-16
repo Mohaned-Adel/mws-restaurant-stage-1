@@ -291,8 +291,7 @@ nav h1 a {
 
   .inside #maincontent #restaurant-container,
   .inside #maincontent #reviews-container,
-  .inside #breadcrumb,
-  .inside #footer {
+  .inside #breadcrumb {
     width: auto;
   }
 
@@ -333,5 +332,10 @@ nav h1 a {
 
   #reviews-list li p.comments  {
     padding: 20px;
+  }
+
+  .inside #footer {
+    width: 100%;
+    padding: 30px 0;
   }
 }
